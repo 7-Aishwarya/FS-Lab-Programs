@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\AISHWARYA BN\Desktop\fs\Project8\FileName.cpp(76,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project8.vcxproj -> C:\Users\AISHWARYA BN\Desktop\fs\Project8\x64\Debug\Project8.exe

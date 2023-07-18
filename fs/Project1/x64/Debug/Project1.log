@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\AISHWARYA BN\Desktop\fs\Project1\FileName.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\AISHWARYA BN\Desktop\fs\Project1\FileName.cpp(31,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AISHWARYA BN\Desktop\fs\Project1\FileName.cpp(58,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\AISHWARYA BN\Desktop\fs\Project1\x64\Debug\Project1.exe

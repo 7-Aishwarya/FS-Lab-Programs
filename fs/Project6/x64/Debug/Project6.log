@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\AISHWARYA BN\Desktop\fs\Project6\FileName.cpp(178,6): warning C4101: 'pos': unreferenced local variable
+C:\Users\AISHWARYA BN\Desktop\fs\Project6\FileName.cpp(292,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project6.vcxproj -> C:\Users\AISHWARYA BN\Desktop\fs\Project6\x64\Debug\Project6.exe

@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\AISHWARYA BN\Desktop\fs\Project2\FileName.cpp(36,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AISHWARYA BN\Desktop\fs\Project2\FileName.cpp(141,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\AISHWARYA BN\Desktop\fs\Project2\FileName.cpp(158,11): warning C4102: 'Default': unreferenced label
+  Project2.vcxproj -> C:\Users\AISHWARYA BN\Desktop\fs\Project2\x64\Debug\Project2.exe

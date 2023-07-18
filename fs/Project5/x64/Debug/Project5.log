@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\AISHWARYA BN\Desktop\fs\Project5\FileName.cpp(62,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\AISHWARYA BN\Desktop\fs\Project5\FileName.cpp(128,20): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\AISHWARYA BN\Desktop\fs\Project5\FileName.cpp(197,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project5.vcxproj -> C:\Users\AISHWARYA BN\Desktop\fs\Project5\x64\Debug\Project5.exe
